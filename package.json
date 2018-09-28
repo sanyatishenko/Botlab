@@ -18,6 +18,7 @@
   "homepage": "https://github.com/sanyatishenko/Botlab#readme",
   "dependencies": {
     "botbuilder": "^3.15.0",
+    "gulp": "^3.9.1",
     "restify": "^7.2.1"
   }
 }
